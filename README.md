@@ -43,3 +43,8 @@ Este repositorio contiene un Dashboard de Recursos Humanos desarrollado en Power
 ## 📸 Captura del Dashboard  
 
 ![Dashboard](imagenes/Dashboard-Recursos-Humanos.jpg)  
+
+## 📌 Autor  
+
+**Roberto Castillo**  
+[GitHub](https://github.com/roberteban)  
