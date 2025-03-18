@@ -1,4 +1,5 @@
 # 📊 Dashboard de Recursos Humanos  
+Este repositorio contiene un Dashboard de Recursos Humanos desarrollado en Power BI, basado en un análisis detallado del personal de una empresa.
 
 ## 📂 Estructura del Repositorio  
 - **📁 imágenes/** → Contiene la imagen del dashboard (`Dashboard-Recursos-Humanos.jpg`).  
