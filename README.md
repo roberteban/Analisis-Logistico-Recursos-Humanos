@@ -35,5 +35,11 @@ Este repositorio contiene un Dashboard de Recursos Humanos desarrollado en Power
 ✔ **Distribución de empleados por edad** con el nuevo campo "Rango Edad".  
 ✔ **Evolución del personal por año de contratación**.  
 
-## 🚀 Resultado  
-El dashboard permite visualizar el estado actual del personal, la distribución salarial y el desempeño por áreas.  
+## 🛠 Herramientas Utilizadas  
+
+- **Power BI** → Para realizar análisis exploratorios, transformar datos de manera avanzada, y crear visualizaciones efectivas para el análisis de información.  
+- **Excel** → Para preprocesamiento de datos.  
+
+## 📸 Captura del Dashboard  
+
+![Dashboard](imagenes/Dashboard-Recursos-Humanos.jpg)  
