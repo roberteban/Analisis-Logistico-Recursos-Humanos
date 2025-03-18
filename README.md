@@ -37,8 +37,10 @@ Este repositorio contiene un Dashboard de Recursos Humanos desarrollado en Power
 
 ## 🛠 Herramientas Utilizadas  
 
-- **Power BI** → Para realizar análisis exploratorios, transformar datos de manera avanzada, y crear visualizaciones efectivas para el análisis de información.  
-- **Excel** → Para preprocesamiento de datos.  
+- **Power BI** → Creación del dashboard y visualización de datos.
+- **Power Query** → Limpieza, transformación y modelado de datos.
+- **DAX (Data Analysis Expressions)** → Cálculo de métricas clave como empleados activos y total de salarios.
+- **Excel** → Base de datos inicial con información de empleados y departamentos.
 
 ## 📸 Captura del Dashboard  
 
