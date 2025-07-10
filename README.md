@@ -36,14 +36,12 @@ Este repositorio contiene un Dashboard de Recursos Humanos desarrollado en Power
 ✔ **Evolución del personal por año de contratación**.  
 
 ## 🛠 Herramientas Utilizadas  
-
 - **Power BI** → Creación del dashboard y visualización de datos.
 - **Power Query** → Limpieza, transformación y modelado de datos.
 - **DAX (Data Analysis Expressions)** → Cálculo de métricas clave como empleados activos y total de salarios.
 - **Microsoft Excel** → Base de datos inicial con información de empleados y departamentos.
 
 ## 📸 Captura del Dashboard  
-
 ![Dashboard](imagenes/Dashboard-Recursos-Humanos.jpg)  
 
 ## 📌 Autor  
